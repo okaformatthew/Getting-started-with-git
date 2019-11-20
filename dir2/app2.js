@@ -1,0 +1,1 @@
+console.log("Getting Ready With Basic Git Command");
